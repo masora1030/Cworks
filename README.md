@@ -1,2 +1,2 @@
 # Cworks
-This project contains codes I have written using C long time ago.
+This project contains codes I had written using C long time ago.
